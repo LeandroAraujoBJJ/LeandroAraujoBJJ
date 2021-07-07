@@ -1,4 +1,4 @@
-### 👋 *r Olá, meu nome é Leandro Araujo. Sou engenheiro químico, trabalho na área nuclear há +10 anos com tratamento de rejeitos radioativos e há 2 anos com o  gerenciamento de riscos de projetos de P&D. Sou especialista (MBA) em Gestão de Projetos e especialista em formação (MBA) em Data Science & Analytics. Tenho experiência com modelagens matemáticas em R, Python, Matlab, e conhecimento em desenvolvimento Web com as linguagens html, CSS e JavaScript.
+### 👋 _Olá, meu nome é Leandro Goulart de Araujo. Sou engenheiro químico, com experiência na área de tratamento de poluentes e rejeitos radioativos, e gerenciamento de riscos de projetos de P&D. Sou especialista (MBA) em Gestão de Projetos e especialista em formação (MBA) em Data Science & Analytics. Tenho experiência com modelagens matemáticas empíricas e fenomenológicas em R, Python, Matlab, e conhecimento em desenvolvimento Web com as linguagens html, CSS e JavaScript._
 
 #### Algumas informações importantes acerca do meu trabalho:
 
