@@ -1,16 +1,16 @@
-### Hi there 👋
+### 👋 *r Olá, meu nome é Leandro Araujo. Sou engenheiro químico, trabalho na área nuclear há +10 anos com tratamento de rejeitos radioativos e há 2 anos com o  gerenciamento de riscos de projetos de P&D. Sou especialista (MBA) em Gestão de Projetos e especialista em formação (MBA) em Data Science & Analytics. Tenho experiência com modelagens matemáticas em R, Python, Matlab, e conhecimento em desenvolvimento Web com as linguagens html, CSS e JavaScript.
 
-<!--
-**LeandroAraujoBJJ/LeandroAraujoBJJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Algumas informações importantes acerca do meu trabalho:
 
-Here are some ideas to get you started:
+##### Link do meu LinkedIn: https://www.linkedin.com/in/lgaraujo/
+##### Link do meu currículo Lattes: http://lattes.cnpq.br/6686831464240468
+##### Alguns cursos que fiz e tenho feito na Digital Innovation One: https://web.digitalinnovation.one/users/leandrogoul?tab=achievements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+#### Vamos nos conectar? 
+
+
